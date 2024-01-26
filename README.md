@@ -6,3 +6,4 @@ changes made
 
 - second modification by guilherme
 
+- exercise 4 modification made by lucas
