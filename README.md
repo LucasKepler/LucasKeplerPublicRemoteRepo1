@@ -7,3 +7,5 @@ changes made
 - second modification by guilherme
 
 - exercise 4 modification made by lucas
+
+- exercise 6 conflict message
